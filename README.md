@@ -49,6 +49,3 @@ I’m particularly interested in computational biology, environmental health, sc
 ### R Ecosystem
 tidyverse • ggplot2 • data.table • Quarto • DuckDB • Arrow • Plotly • DT • knitr
 
----
-
-## Featured Projects 📌
